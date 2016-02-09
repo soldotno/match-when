@@ -1,6 +1,6 @@
 'use strict';
-const when = require('./match').when;
-const match = require('./match').match;
+const when = require('./src/match').when;
+const match = require('./src/match').match;
 
 // var match = require('./');
 const t = require('chai').assert;

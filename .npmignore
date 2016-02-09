@@ -49,3 +49,6 @@ Thumbs.db
 # Editors
 .idea
 *.iml
+
+# Config
+*.yml
