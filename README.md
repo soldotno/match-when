@@ -1,5 +1,7 @@
 ### match-when - Pattern matching for modern JavaScript 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/match-when.svg)](https://greenkeeper.io/)
+
 
 
 [![Circle CI](https://img.shields.io/circleci/project/FGRibreau/match-when/master.svg?style=flat)](https://circleci.com/gh/FGRibreau/match-when/tree/master) ![deps](https://img.shields.io/david/fgribreau/match-when.svg?style=flat) ![Version](https://img.shields.io/npm/v/match-when.svg?style=flat) ![extra](https://img.shields.io/badge/actively%20maintained-yes-ff69b4.svg?style=flat) [![Twitter Follow](https://img.shields.io/twitter/follow/fgribreau.svg?style=flat)](https://twitter.com/FGRibreau)
